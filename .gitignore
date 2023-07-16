@@ -33,4 +33,4 @@ yarn-error.log*
 .turbo
 .env
 
-database/dist
+packages/database/dist
